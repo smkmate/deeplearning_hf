@@ -27,12 +27,10 @@ CheckPoint1/FaceRecognition.ipynb - Can be run by clicking the *Open in Colab* l
 
 CheckPoint2/FaceRecignition_base.ipynb - Can be run by clicking the *Open in Colab* link
 
-In this notebook, first we load and preprocess the datas and then define the training and evaluating functions.
+In this notebook, first we load and preprocess the data and then define the training and evaluating functions.
 
-After that with the evaluate() function we measure the performance of the untraind model.
-
-We can set the hiperparameters in the next section and for training we have to run the fit_one_cycle() function.
+We can set the hyperparameters in the next section and for training we have to run the fit_one_cycle() function.
 After each epoch we can see the validation and training loss.
 
-In the end we can measure the performance of the trained model with an other evaluate() function and see the results
+In the end we can measure the performance of the trained model with the evaluate() function and see the results
 in a confusion matrix.
