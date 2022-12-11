@@ -3,7 +3,6 @@
 - Tugyi Beatrix (T63K63), 
 - El-Ali Maya (BHI5LF), 
 - Simkó Máté (O3BMRX)
-- 
 
 # I. Milestone
 
@@ -34,3 +33,11 @@ After each epoch we can see the validation and training loss.
 
 In the end we can measure the performance of the trained model with the evaluate() function and see the results
 in a confusion matrix.
+
+# Final Milestone
+
+For the final submission six models were trained one for each classification task, and each base model. The hyperparameter optimisation, training and evaluation of these models can be seen in Final with the finalmilestone_{base_model}\_{task}.ipynb naming convention. These can be run by clicking *Open in Colab* link.
+
+The trained models are saved in TrainedModels.
+
+The demo app created for the testing of the models can be seen in FaceRecognitionApp for which further instructions can be found in FaceRecognitionApp/README.md.
