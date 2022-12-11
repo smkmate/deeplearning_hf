@@ -10,7 +10,7 @@
 
 An example output can be seen here:
 
-![example](facerec.png)
+![example](facerec.png=x100)
 
 <strong>Created by:</strong>
 
