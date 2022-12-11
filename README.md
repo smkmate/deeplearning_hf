@@ -36,7 +36,7 @@ in a confusion matrix.
 
 # Final Milestone
 
-For the final submission six models were trained one for each classification task, and each base model. The hyperparameter optimisation, training and evaluation of these models can be seen in Final with the finalmilestone_{base_model}\_{task}.ipynb naming convention. These can be run by clicking *Open in Colab* link.
+For the final submission six models were trained one for each classification task, on each base model. The hyperparameter optimisation, training and evaluation of these models can be seen in Final with the finalmilestone_{base_model}\_{task}.ipynb naming convention. These can be run by clicking *Open in Colab* link.
 
 The trained models are saved in TrainedModels.
 
