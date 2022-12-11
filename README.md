@@ -38,7 +38,8 @@ in a confusion matrix.
 
 For the final submission six models were trained one for each classification task, on each base model. The hyperparameter optimisation, training and evaluation of these models can be seen in Final with the finalmilestone_{base_model}\_{task}.ipynb naming convention. These can be run by clicking *Open in Colab* link.
 
-The trained models are saved in TrainedModels.
+The trained ResNet models are saved in TrainedModels, the VGG models very too large and the can be found on the following links: [VGG gender](https://drive.google.com/file/d/1_nCobL9XwXz56XWvhtgGfrTfVpxkXKZv/view?usp=sharing), [VGG race](https://drive.google.com/file/d/1pjZs8pvsrBSbRBYJfRyeNDkW-fwF0lAr/view?usp=share_link), [VGG age](
+https://drive.google.com/file/d/17vMzIxFUZKngqSWm4LB9ecEN7sCHIov-/view?usp=share_link).
 
 The report can be found in documentation.pdf and its source is documentation.docx
 
