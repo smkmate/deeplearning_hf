@@ -40,4 +40,6 @@ For the final submission six models were trained one for each classification tas
 
 The trained models are saved in TrainedModels.
 
+The report can be found in documentation.pdf and its source is documentation.docx
+
 The demo app created for the testing of the models can be seen in FaceRecognitionApp for which further instructions can be found in FaceRecognitionApp/README.md.
