@@ -8,6 +8,10 @@
 
 <p>Application might ask for permision to use the camera.</p>
 
+An example output can be seen here:
+
+![example](facerec.png)
+
 <strong>Created by:</strong>
 
 \*RiseOfAI\*
